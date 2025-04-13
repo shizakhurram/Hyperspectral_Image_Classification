@@ -1,9 +1,10 @@
 ## 🌾 Hyperspectral Image Classification
 A comprehensive implementation of Convolutional Neural Networks (CNNs) for classifying hyperspectral images (HSI), focusing on the **Indian Pines** and **Pavia University** datasets. The pipeline includes preprocessing, class balancing, augmentation, model training, and rich visualizations.
 
+
 ---
 
-### 🔧 Features
+### 🔧 Features 
 
 - **Dataset Support:**  
   - Indian Pines (`freeman2147/1992-indian-pines`)  
